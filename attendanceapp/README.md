@@ -1,4 +1,4 @@
-# attendanceapp
+# Employee Attendance App
 
 A new Flutter project.
 
